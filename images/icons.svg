@@ -223,13 +223,13 @@
 
 
 
-<symbol id="subscribe" viewBox="0 0 24 20" >
-  <path d="M24 0L0 11.25L7.66994 13.6172L19.5 4.375L10.5017 14.4913L10.509 14.4936L10.5 14.4913V20L14.8013 15.8183L20.2501 17.5L24 0Z" />
+<symbol id="subscribe" viewBox="0 0 24 24" >
+<g id="Frame 3">
+<path id="icon send" d="M24 2L0 13.25L7.66994 15.6172L19.5 6.375L10.5017 16.4913L10.509 16.4936L10.5 16.4913V22L14.8013 17.8183L20.2501 19.5L24 2Z"  fill="white"/>
+</g>
 </symbol>
 
-<symbol id="subscribe"viewBox="0 0 24 24" >
-<path d="M24 2L0 13.25L7.66994 15.6172L19.5 6.375L10.5017 16.4913L10.509 16.4936L10.5 16.4913V22L14.8013 17.8183L20.2501 19.5L24 2Z" />
-</symbol>
+
 
 <symbol id="person"  viewBox="0 0 18 18" >
   <g clip-path="url(#clip0_639554_142)">

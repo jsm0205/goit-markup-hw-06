@@ -1035,6 +1035,20 @@ image {
     cursor: pointer;
 }
 
+/* svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+} */
+
+.checkbox:checked+.checkbox-icon {
+    background-size: contain;
+    font: var(--white);
+    fill: var(--white);
+    border-radius: 2px;
+    border: 1px solid var(--iris, rgba(46, 47, 66, 0.40));
+    background-color: var(--iris, #4D5AE5);
+    cursor: pointer;
+}
 /* .check-mark {
     width: 16px;
     height: 16px;
